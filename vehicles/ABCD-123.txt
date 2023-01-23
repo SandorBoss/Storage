@@ -1,0 +1,18 @@
+jármű nylivántartó: x hivatal
+jármű: y jármű
+jármű kategória: m1
+rendszám: AB:CD-123
+első nyilvántartásba vétel: 2023-01-23
+gyártmány: Suzuki
+típus: Swift
+ülőhelyek száma vezetővel: 5
+motor azonosító száma: [ik260 2200 55445]
+jármű színe: blue
+saját tömeg: 1350
+össztömeg: 2000
+fékezett vontatmány: 750
+fékezetlen vontatmány: 1500
+környezetvédelmi besorolás: euro0
+utónév: Firstname
+családnév: Lastname
+cím: Ikszfalva, Ipszilon tér 1.
